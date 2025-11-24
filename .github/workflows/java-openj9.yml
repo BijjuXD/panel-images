@@ -42,7 +42,7 @@ jobs:
 
     steps:
       - name: Git checkout for Github repository workspace
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Setup Docker buildx
         uses: docker/setup-buildx-action@v3
