@@ -1,5 +1,9 @@
 ## Pelican/Pterodactyl/WISP Docker Images
 
+> [!WARNING]
+> This repository is no longer maintained and has been archived.
+> Please use [reviactyl/images](https://github.com/reviactyl/images)
+
 Docker images that can be used with the Pelican/Pterodactyl/WISP Game Panel. You can request more images by opening a new issue. These are mostly created for myself. <br>
 Special thanks to [Trenutoo](https://github.com/trenutoo/pterodactyl-images)
 
